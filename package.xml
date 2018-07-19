@@ -693,6 +693,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>TestPermission</members>
+        <name>CustomPermission</name>
+    </types>
+    <types>
         <members>Account.Standard_Account_Duplicate_Rule</members>
         <members>Contact.Standard_Contact_Duplicate_Rule</members>
         <members>Lead.Standard_Lead_Duplicate_Rule</members>
