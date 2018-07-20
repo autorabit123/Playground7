@@ -1,5 +1,6 @@
 <apex:page >
   <!-- Begin Default Content REMOVE THIS -->
+  // Adding comment
   <h1>Congratulations</h1>
   This is your new Page
   has something new again
