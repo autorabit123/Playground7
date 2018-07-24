@@ -39,6 +39,10 @@
                 <behavior>Edit</behavior>
                 <field>AnnualRevenue</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Contact_Lookup__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
