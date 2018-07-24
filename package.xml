@@ -73,8 +73,10 @@
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
+        <members>Account.AutorabitExtId__c</members>
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
+        <members>Account.Contact_Lookup__c</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.DandbCompanyId</members>
         <members>Account.Description</members>
@@ -233,6 +235,7 @@
         <members>Contact.AccountId</members>
         <members>Contact.AssistantName</members>
         <members>Contact.AssistantPhone</members>
+        <members>Contact.AutorabitExtId__c</members>
         <members>Contact.Birthdate</members>
         <members>Contact.CleanStatus</members>
         <members>Contact.Department</members>
@@ -469,7 +472,9 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Macro.StartingContext</members>
+        <members>ObjectB__c.AutorabitExtId__c</members>
         <members>ObjectB__c.ContactFromB__c</members>
+        <members>ObjectC__c.AutorabitExtId__c</members>
         <members>ObjectC__c.ObjectB_C__c</members>
         <members>Opportunity.AccountId</members>
         <members>Opportunity.Amount</members>
@@ -680,6 +685,7 @@
         <members>MacroInstruction</members>
         <members>ObjectB__c</members>
         <members>ObjectC__c</members>
+        <members>Objectd__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -715,6 +721,7 @@
     </types>
     <types>
         <members>ObjectB__c</members>
+        <members>ObjectC__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -786,6 +793,7 @@
         <members>Macro-Macro Layout</members>
         <members>ObjectB__c-ObjectB Layout</members>
         <members>ObjectC__c-ObjectC Layout</members>
+        <members>Objectd__c-ObjectD Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
@@ -845,6 +853,7 @@
         <members>Lead.ViewCustom1</members>
         <members>Lead.ViewCustom2</members>
         <members>ObjectB__c.All</members>
+        <members>ObjectC__c.All</members>
         <members>Opportunity.AllOpportunities</members>
         <members>Opportunity.ClosingNextMonth</members>
         <members>Opportunity.ClosingThisMonth</members>
