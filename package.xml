@@ -233,6 +233,7 @@
         <members>Case.Type</members>
         <members>CaseContactRole.Role</members>
         <members>Contact.AccountId</members>
+        <members>Contact.Account_Lookup__c</members>
         <members>Contact.AssistantName</members>
         <members>Contact.AssistantPhone</members>
         <members>Contact.AutorabitExtId__c</members>
