@@ -477,6 +477,7 @@
         <members>ObjectB__c.ContactFromB__c</members>
         <members>ObjectC__c.AutorabitExtId__c</members>
         <members>ObjectC__c.ObjectB_C__c</members>
+        <members>ObjectD_1__c.ObjectDAccount__c</members>
         <members>ObjectD__c.ContactFormD__c</members>
         <members>Opportunity.AccountId</members>
         <members>Opportunity.Amount</members>
@@ -687,6 +688,7 @@
         <members>MacroInstruction</members>
         <members>ObjectB__c</members>
         <members>ObjectC__c</members>
+        <members>ObjectD_1__c</members>
         <members>ObjectD__c</members>
         <members>Objectd__c</members>
         <members>Opportunity</members>
@@ -796,6 +798,7 @@
         <members>Macro-Macro Layout</members>
         <members>ObjectB__c-ObjectB Layout</members>
         <members>ObjectC__c-ObjectC Layout</members>
+        <members>ObjectD_1__c-ObjectD_1 Layout</members>
         <members>ObjectD__c-ObjectD Layout</members>
         <members>Objectd__c-ObjectD Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
@@ -1063,6 +1066,10 @@
         <members>TaskSubject</members>
         <members>TaskType</members>
         <name>StandardValueSet</name>
+    </types>
+    <types>
+        <members>ObjectD_1__c.TestRules</members>
+        <name>ValidationRule</name>
     </types>
     <types>
         <members>Account.Billing</members>

@@ -1063,6 +1063,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>ObjectD_1__c.ObjectDAccount__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Opportunity.AccountId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1455,6 +1460,9 @@
         <layout>ObjectC__c-ObjectC Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>ObjectD_1__c-ObjectD_1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Objectd__c-ObjectD Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1632,6 +1640,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>ObjectC__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>ObjectD_1__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
