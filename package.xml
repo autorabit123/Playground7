@@ -479,6 +479,7 @@
         <members>ObjectC__c.ObjectB_C__c</members>
         <members>ObjectD_1__c.ObjectDAccount__c</members>
         <members>ObjectD__c.ContactFormD__c</members>
+        <members>Objectd__c.ContactTestD__c</members>
         <members>Opportunity.AccountId</members>
         <members>Opportunity.Amount</members>
         <members>Opportunity.CampaignId</members>
